@@ -47,9 +47,13 @@ The servo motor rotates to cover angles from 0° to 180°, creating a radar-like
 🚀 How to Run
 
 Step01 - Clone this repository.
+<br>
 git clone https://github.com/lakshyaasonii/object_detection_ultrasonic-_radar.git
+<br>
 Step02 - Open radar.ino in Arduino IDE.
+<br>
 Step03 - Connect Arduino UNO and upload the code.
+<br>
 Step04 - Open Serial Monitor at 9600 baud rate to see distance & angle.
 
 📚 Key Learnings
